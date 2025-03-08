@@ -1,5 +1,5 @@
 *.gtkw
 *.vcd
 
-computer
-memory.list
+# computer
+# memory.list

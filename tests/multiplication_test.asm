@@ -20,5 +20,5 @@ start:
 
 .data
 
-r = 0
+r = 4
 i = 4
